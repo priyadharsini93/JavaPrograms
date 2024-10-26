@@ -7,7 +7,7 @@ public class ConditionalStatement {
 		
 		int a[]= {10,20,30};
 		{
-			for()
+			System.out.println("Changes made by QA");
 		}
 		
 		
